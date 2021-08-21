@@ -38,6 +38,7 @@ const EditButton = styled.button`
   background: #0ac620;
   border-radius: 3px;
   border: none;
+  cursor: pointer;
 `;
 
 const DeleteButton = styled.button`
