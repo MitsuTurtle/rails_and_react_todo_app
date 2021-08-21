@@ -1,5 +1,8 @@
 # README
 
+↓このyoutubeで作成した。
+https://www.youtube.com/watch?v=yD0QotED6f8&list=PL7dhNz439lnT0O90GcLR8XpeR49uDIYYF&index=1
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
